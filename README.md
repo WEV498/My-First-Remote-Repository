@@ -4,3 +4,4 @@ A first repository for learning the basics
   
 **Students:**  
 - Edgard Stultjens, docent
+- Petru Nitu, student
